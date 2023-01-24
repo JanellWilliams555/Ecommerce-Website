@@ -1,7 +1,7 @@
 # Ecommerce-Website
-Greetings! I have designed this Ecommerce website using HTML, CSS, and JavaScript.
+# Greetings! I have designed this Ecommerce website using HTML, CSS, and JavaScript.
 
-The design features include, but are not limited to, the following:
+# The design features include, but are not limited to, the following:
 
 # A sliding feature to display the merchandise.
 
